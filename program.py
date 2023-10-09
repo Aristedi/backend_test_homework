@@ -1,1 +1,3 @@
-print('Я домашка'
+number = 'Я домашка'
+print(number)
+
